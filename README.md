@@ -1,4 +1,4 @@
-# basic-computer-design-with-Quartus-II
+# computer-design-with-Quartus-II
 Computer has 9 registers, 3 memories, arithmetic and logic unit, control unit and bus system. 
 
 Basic computer has 9 registers which are Address Register, Program Counter, Stack Pointer, Input Register, Output Register, Instruction Register and 3 general purpose registers. 
